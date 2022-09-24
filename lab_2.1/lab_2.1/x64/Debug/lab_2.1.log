@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Антон Сергеевич\Documents\ALL\Учеба\2 курс\Первый сем\ИНФА\lab_2.1\lab_2.1\Source.cpp(121,104): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Антон Сергеевич\Documents\ALL\Учеба\2 курс\Первый сем\ИНФА\lab_2.1\lab_2.1\Source.cpp(121,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  lab_2.1.vcxproj -> C:\Users\Антон Сергеевич\Documents\ALL\Учеба\2 курс\Первый сем\ИНФА\lab_2.1\x64\Debug\lab_2.1.exe
